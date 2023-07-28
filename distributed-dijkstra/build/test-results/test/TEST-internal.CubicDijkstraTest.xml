@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="internal.CubicDijkstraTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-05-18T18:18:21" hostname="MacBook-Air-Elena-Soboleva.local" time="2.243">
+  <properties/>
+  <testcase name="heapTwoDimensions()" classname="internal.CubicDijkstraTest" time="0.166"/>
+  <testcase name="arrayTwoDimensions()" classname="internal.CubicDijkstraTest" time="0.11"/>
+  <testcase name="arrayThreeDimensions()" classname="internal.CubicDijkstraTest" time="1.241"/>
+  <testcase name="heapOneDimension()" classname="internal.CubicDijkstraTest" time="0.015"/>
+  <testcase name="heapThreeDimensions()" classname="internal.CubicDijkstraTest" time="0.693"/>
+  <testcase name="arrayOneDimension()" classname="internal.CubicDijkstraTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

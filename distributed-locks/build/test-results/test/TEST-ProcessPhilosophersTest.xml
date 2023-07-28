@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProcessPhilosophersTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-05-13T11:35:54" hostname="MacBook-Air-Elena-Soboleva.local" time="22.588">
+  <properties/>
+  <testcase name="secondLockIsFree()" classname="ProcessPhilosophersTest" time="0.021"/>
+  <testcase name="randomLocksSmallUnlockProbFIFO()" classname="ProcessPhilosophersTest" time="3.766"/>
+  <testcase name="randomLocksSmallUnlockProbFair()" classname="ProcessPhilosophersTest" time="2.913"/>
+  <testcase name="onlyLockHolders()" classname="ProcessPhilosophersTest" time="3.21"/>
+  <testcase name="randomLocksSmallUnlockProbRandom()" classname="ProcessPhilosophersTest" time="2.981"/>
+  <testcase name="onlyLockHoldersConst()" classname="ProcessPhilosophersTest" time="0.008"/>
+  <testcase name="randomUnlock()" classname="ProcessPhilosophersTest" time="0.041"/>
+  <testcase name="randomLocksFIFO()" classname="ProcessPhilosophersTest" time="3.705"/>
+  <testcase name="randomLocksFair()" classname="ProcessPhilosophersTest" time="2.902"/>
+  <testcase name="randomLocksRandom()" classname="ProcessPhilosophersTest" time="2.978"/>
+  <testcase name="firstLockUnlockManyTimes()" classname="ProcessPhilosophersTest" time="0.001"/>
+  <testcase name="roundRobinUnlock()" classname="ProcessPhilosophersTest" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

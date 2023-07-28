@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProcessRickartAgrawalaTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-05-13T11:36:17" hostname="MacBook-Air-Elena-Soboleva.local" time="38.912">
+  <properties/>
+  <testcase name="twoConcurrentLocks()" classname="ProcessRickartAgrawalaTest" time="0.004"/>
+  <testcase name="randomLocksSmallUnlockProbFIFO()" classname="ProcessRickartAgrawalaTest" time="7.095"/>
+  <testcase name="randomLocksSmallUnlockProbFair()" classname="ProcessRickartAgrawalaTest" time="6.149"/>
+  <testcase name="randomLocksSmallUnlockProbRandom()" classname="ProcessRickartAgrawalaTest" time="6.124"/>
+  <testcase name="randomUnlock()" classname="ProcessRickartAgrawalaTest" time="0.117"/>
+  <testcase name="randomLocksFIFO()" classname="ProcessRickartAgrawalaTest" time="7.022"/>
+  <testcase name="randomLocksFair()" classname="ProcessRickartAgrawalaTest" time="6.169"/>
+  <testcase name="firstLock()" classname="ProcessRickartAgrawalaTest" time="0.001"/>
+  <testcase name="randomLocksRandom()" classname="ProcessRickartAgrawalaTest" time="6.109"/>
+  <testcase name="firstLockUnlockManyTimes()" classname="ProcessRickartAgrawalaTest" time="0.011"/>
+  <testcase name="firstLockUnlock()" classname="ProcessRickartAgrawalaTest" time="0.001"/>
+  <testcase name="roundRobinUnlock()" classname="ProcessRickartAgrawalaTest" time="0.097"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

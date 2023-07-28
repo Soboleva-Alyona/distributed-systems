@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProcessCentralizedTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-05-13T11:34:54" hostname="MacBook-Air-Elena-Soboleva.local" time="27.655">
+  <properties/>
+  <testcase name="coordinatorLockUnlock()" classname="ProcessCentralizedTest" time="0.054"/>
+  <testcase name="concurrentLocksCoordinator()" classname="ProcessCentralizedTest" time="0.012"/>
+  <testcase name="coordinatorLock()" classname="ProcessCentralizedTest" time="0.006"/>
+  <testcase name="randomLocksSmallUnlockProbFIFO()" classname="ProcessCentralizedTest" time="6.265"/>
+  <testcase name="randomLocksSmallUnlockProbFair()" classname="ProcessCentralizedTest" time="4.796"/>
+  <testcase name="randomLocksSmallUnlockProbRandom()" classname="ProcessCentralizedTest" time="4.14"/>
+  <testcase name="nonCoordinatorLock()" classname="ProcessCentralizedTest" time="0.02"/>
+  <testcase name="lockUnlockRandom()" classname="ProcessCentralizedTest" time="0.05"/>
+  <testcase name="randomLocksFIFO()" classname="ProcessCentralizedTest" time="4.301"/>
+  <testcase name="randomLocksFair()" classname="ProcessCentralizedTest" time="3.96"/>
+  <testcase name="randomLocksRandom()" classname="ProcessCentralizedTest" time="3.977"/>
+  <testcase name="nonCoordinatorLockUnlock()" classname="ProcessCentralizedTest" time="0.005"/>
+  <testcase name="concurrentLocksNonCoordinator()" classname="ProcessCentralizedTest" time="0.001"/>
+  <testcase name="lockUnlockRoundRobin()" classname="ProcessCentralizedTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

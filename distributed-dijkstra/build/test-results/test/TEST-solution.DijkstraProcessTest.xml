@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="solution.DijkstraProcessTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-05-18T18:21:21" hostname="MacBook-Air-Elena-Soboleva.local" time="286.932">
+  <properties/>
+  <testcase name="stressRandomFIFO()" classname="solution.DijkstraProcessTest" time="47.086"/>
+  <testcase name="stressRandomFair()" classname="solution.DijkstraProcessTest" time="24.244"/>
+  <testcase name="oneDimensionFIFO()" classname="solution.DijkstraProcessTest" time="0.011"/>
+  <testcase name="oneDimensionFair()" classname="solution.DijkstraProcessTest" time="0.002"/>
+  <testcase name="stressSparseFIFO()" classname="solution.DijkstraProcessTest" time="14.007"/>
+  <testcase name="stressSparseFair()" classname="solution.DijkstraProcessTest" time="7.736"/>
+  <testcase name="twoDimensionsFIFO()" classname="solution.DijkstraProcessTest" time="1.332"/>
+  <testcase name="twoDimensionsFair()" classname="solution.DijkstraProcessTest" time="0.494"/>
+  <testcase name="threeDimensionsFIFO()" classname="solution.DijkstraProcessTest" time="52.123"/>
+  <testcase name="threeDimensionsFair()" classname="solution.DijkstraProcessTest" time="18.028"/>
+  <testcase name="stressDenseFIFO()" classname="solution.DijkstraProcessTest" time="78.568"/>
+  <testcase name="stressDenseFair()" classname="solution.DijkstraProcessTest" time="43.269"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 1
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 101
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 201
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 301
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 401
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 501
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 601
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 701
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 801
+[Test worker] INFO solution.DijkstraProcessTest - Running iteration 901
+]]></system-err>
+</testsuite>

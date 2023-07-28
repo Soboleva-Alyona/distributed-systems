@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnitTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-06-23T22:00:35" hostname="MacBook-Air-Elena-Soboleva.local" time="0.051">
+  <properties/>
+  <testcase name="testAddAndRemoveSingleShard()" classname="UnitTest" time="0.007"/>
+  <testcase name="testOneAfterAnotherCircleEnd()" classname="UnitTest" time="0.002"/>
+  <testcase name="testAddMultipleShardsMultipleVnodesStress()" classname="UnitTest" time="0.006"/>
+  <testcase name="testAddNewAndRemoveOldShard()" classname="UnitTest" time="0.001"/>
+  <testcase name="testRemoveMultipleRangesSameShard()" classname="UnitTest" time="0.002"/>
+  <testcase name="testRemoveMultipleRangesMultipleShards()" classname="UnitTest" time="0.001"/>
+  <testcase name="testRemoveMultipleRangesSameShardRangeBeginEnd()" classname="UnitTest" time="0.002"/>
+  <testcase name="testOneAfterAnother()" classname="UnitTest" time="0.001"/>
+  <testcase name="testAddMultipleVnodesSingleShard()" classname="UnitTest" time="0.0"/>
+  <testcase name="testRemoveOldShardMultipleRangesMultipleShards()" classname="UnitTest" time="0.002"/>
+  <testcase name="testRemoveOldestShardMultipleRangesMultipleShards()" classname="UnitTest" time="0.004"/>
+  <testcase name="testAddMultipleShardsSingleVnode()" classname="UnitTest" time="0.0"/>
+  <testcase name="testMultipleRangesReplaceMultipleShard()" classname="UnitTest" time="0.004"/>
+  <testcase name="testMultipleRangesReplaceSameShard()" classname="UnitTest" time="0.001"/>
+  <testcase name="testAddSingleShard()" classname="UnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

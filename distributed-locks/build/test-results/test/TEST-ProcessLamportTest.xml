@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProcessLamportTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-05-13T11:35:21" hostname="MacBook-Air-Elena-Soboleva.local" time="32.426">
+  <properties/>
+  <testcase name="twoConcurrentLocks()" classname="ProcessLamportTest" time="0.023"/>
+  <testcase name="randomLocksSmallUnlockProbFIFO()" classname="ProcessLamportTest" time="8.474"/>
+  <testcase name="randomLocksSmallUnlockProbFair()" classname="ProcessLamportTest" time="7.646"/>
+  <testcase name="randomLocksSmallUnlockProbRandom()" classname="ProcessLamportTest" time="0.006"/>
+  <testcase name="randomUnlock()" classname="ProcessLamportTest" time="0.192"/>
+  <testcase name="randomLocksFIFO()" classname="ProcessLamportTest" time="8.297"/>
+  <testcase name="randomLocksFair()" classname="ProcessLamportTest" time="7.601"/>
+  <testcase name="failsOnNoFIFO()" classname="ProcessLamportTest" time="0.002"/>
+  <testcase name="firstLock()" classname="ProcessLamportTest" time="0.001"/>
+  <testcase name="randomLocksRandom()" classname="ProcessLamportTest" time="0.004"/>
+  <testcase name="firstLockUnlockManyTimes()" classname="ProcessLamportTest" time="0.016"/>
+  <testcase name="firstLockUnlock()" classname="ProcessLamportTest" time="0.003"/>
+  <testcase name="roundRobinUnlock()" classname="ProcessLamportTest" time="0.142"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
